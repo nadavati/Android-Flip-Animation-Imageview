@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidFlipAnimation</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <integer name="card_flip_time_full">1000</integer>
+    <integer name="card_flip_time_half">500</integer>
+
+</resources>
